@@ -1,33 +1,25 @@
-# Agendador de Serviços
+# ProblemSolving
 
-**Número da Lista**: 3<br>
-**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
+**Conteúdo da Disciplina**: Algoritmos ambiciosos
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 17/0019098  |  Matheus Felizola Freires |
-| 15/0016310  |  Luis Gustavo Avelino |
+| 16/0049733  |  Felipe Borges de Souza Chaves |
+| 18/0055241  |  Victor Jorge da Silva Gonçalves |
 
 ## Sobre 
-O objetivo do projeto é servir como um agendador de serviços para profissionais autônomos. Nele o profissional autônomo pode cadastrar os serviços que deve realizar e após isso ele escolhe se quer realizá-las sozinhos, nesse caso o aplicativo escolhe a maior combinação possível de serviços combináveis, ou em equipe, nesse caso o aplicativo diz quantas pessoas o profissional precisaria contratar para realizar todas as atividades.
+
+Este projeto contempla a resolução de diversos problemas propostos em juízes online utilizando-se da técnica de algoritmos ambiciosos. Cada problema possui uma particularidade e um nível de complexidade próprio, o que os torna comum é a possibilidade de serem resolvidos através do paradigma _greed_. Para compor o conjunto de problemas resolvidos, utilizamos os seguintes juízes online: CodeForces, UVA e URI.
 
 ## Screenshots
-![calendar view](screenshots/calendar.png)
-![single person view](screenshots/single.png)
-![team view](screenshots/team.png)
+
 
 ## Instalação 
-**Linguagem**: Swift<br>
-**Framework**: UIKit e JTAppleCalendar<br>
 
-**Pré-requisitos**: XCode 10 ou superior.
 
 ## Uso 
-1. Escolher um dia no calendário
-2. Adicionar tarefas nesse dia
-3. Escolher o método de realização (sozinho ou em equipe)
 
 
-
+## Outros 
 
